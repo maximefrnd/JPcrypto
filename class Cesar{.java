@@ -6,12 +6,12 @@ class Cesar{
         String c = "";
         int k = 1;
 
-        for(int i = 0; i < m.lenght(); i++)
+        for(int i = 0; i < m.length(); i++)
         {
-            Systeme.out.println((char)(m.charAt(i)+k));
+          c = c + (char)(97+(m.charAt(i)+k-97)%26);
         }
 
-        
+        System.out.println(c);
     }
 
 }

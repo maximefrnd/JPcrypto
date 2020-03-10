@@ -10,8 +10,9 @@ namespace Crypto
             {
                 return ch;
             }
-
-            return (char)(ch+k);
+               
+            return (char)(97+(ch+k-97)%26); 
+            
         }
 
         public static string encryptage(string entree, int k)
