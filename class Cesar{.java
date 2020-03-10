@@ -2,7 +2,7 @@ class Cesar{
 
     public static void main(String[] args)
     {
-        String m = "coucou";
+        String m = args[0];
         String c = "";
         int k = 1;
 
