@@ -4,7 +4,7 @@ namespace Crypto
 {
     class Program
     {
-        public static char cryptage(char ch, int k)
+        /*public static char cryptage(char ch, int k)
         {
             if (!char.IsLetter(ch))
             {
@@ -28,7 +28,7 @@ namespace Crypto
             return sortie;
         }
 
-        public static void Main (String[] args)
+        public static void Cesar (String[] args)
         {
 
             Console.WriteLine("\n");
@@ -50,6 +50,14 @@ namespace Crypto
             Console.WriteLine("\n");
             Console.WriteLine("----------");
             Console.WriteLine("\n");
+        }*/
+
+        public static void Main(String[] Args)
+        {
+            String c = "giwxexvezivwhipevkiwkvmppiwuyipiwjiqippiwhygerxsrgsrxiqtpemirxyrtymwwerxksvmppiwerwwsygmhyuyirhmvexsrezigmqtyhiyvgiwgsqqiviwpsvkremirxqiqiyrirhvsmxtvigmwuyivmksyviywiqirxqeqiviqehijirhyhirsqqivmgmkevieyksvmppixsyxegsytpetvmwsrfmirgpswisyzmzemxpifipermqepwsyzvisrrwemxtsyvuysmniwyttswiuysrezemxhypejivqivqeppiwmrkiirwsvxerxhiwegekihmxgiwxeynsyvhlymuyinpitivhwmptevpemxhiwsrtygipekizsywezmidhizmriniwtivikevieyksvmppiptexvsrhipeqirekivmigvmemxitivhyrsqhirsqgiwxewwsqqerxgevpiksvmppireneqemwgsrryhikyirsrhiwuyipejiqmrmriirkiergiwyxuyipiwmrkiixemxtygieyeypmiyhitvsjmxivhipeglergiippijmxjiyhiwhiybjywieybkevieyksvmppigippiwpeqiqiuymrekyivipigsyzemirxhyrmphigmhijymvirxtvsyzerxuyippiwrezemirxkyivihipewymxiherwpiwmhiiwheyxerxtpywzemriixemxpiyvgvemrxiuyipiksvmppiiwxyrpyvsrwytivmiyveplsqqiherwpixvimrxifmirhiwjiqqiwzsywpihmvsrxkevieyksvmppixsyxpiqsrhiwitvigmtmxilsvwhexximrxihywmrkiirvyxweyjyrizmippihigvitmxiixyrniyrinykiirfsmwfvyxzscerxuyixsyxiwwihivsfirxpiuyehvyqerieggipivewsrherhmriqirxzivwpiwvsfiwhipezmimppiixhyqekmwxvexkevieyksvmppifelwsytmvemxpegirxiremviuysrtymwwiirgsviqihiwmvivgiwivemxibxvesvhmremviixtsyvxsyxhmvimriwtivipinykitirwemxmqtewwmfpiuysrqitvirritsyvyrikyirsrgiwxgsqtpixiqirxmqtswwmfpipewymxipymtvsyzeuyirsrkevieyksvmppiwyttswiduyipyrhizsywtymwwiixvigsqqipiwmrkisfpmkihizmspivyrnykisyyriergixvipiuyipglsmwmvemxmphiwhiybuyyriepxivrexmzitevimppiyrhigiwuyexviwnsyvwqiglsmigiwxnirwymwgsrzemrgypezmimppiuymwivepsfnixhiqsrglsmbkevieyksvmppiqemwtevqepliyvwmpiksvmppieybniybhipeqsyvzeyxwsrtvmbsrwemxuyirvizerglimprifvmppirmtevpiksxrmtevpiwtvmxpsvweypmiyhstxivtsyvpezmimppigsqqipeyvemxjemxrmqtsvxiuymmpwemwmxpinykiepsvimppiixpirxvereherwyrqeuymwkevieyksvmppipewymxiwivemxhipigxefpiqepliyviywiqirxniritiybtewpehmviixgiwxvikvixxefpiersyweyvemxjemxvmviyrtiygevpinykieyqsqirxwytviqigvmemxqeqertpiyvemxfieygsytgsqqiplsqqieyuyippinsyvqiqimpezemxjemxxverglivpigsykevieyksvmppi";
+            
+            
+
         }
 
     }
