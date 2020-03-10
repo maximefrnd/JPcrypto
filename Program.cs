@@ -97,7 +97,9 @@ namespace Crypto
             
             int cle = rela(cleRelative);
 
-            string m = decrypte(cle); 
+            string m = encryptage(c, cle); 
+
+            Console.WriteLine("\n le message est : "+m);
 
         }
 
@@ -127,19 +129,12 @@ namespace Crypto
         {
             int k2 = 0;
 
-            k2 = (k-4)+101;
+            k2 = (k-5)+101;
 
             return k2;
         }
 
-        public static string decrypte(int k)
-        {
-            string sortie = string.Empty;
 
-            
-
-            return sortie;
-        }
 
     }
 }
