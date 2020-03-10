@@ -26,10 +26,15 @@ namespace Crypto
             return sortie;
         }
 
+        public static string decryptage(string entree, int cle)
+        {
+            return encryptage(entree,26-cle);
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Entrez votre phrase");
-            string PhraseUser = Console.ReadLine();
+            string textUser = Console.ReadLine();
 
             Console.WriteLine("\n");
 
@@ -50,11 +55,18 @@ namespace Crypto
             Console.WriteLine("\n");
 
             Console.WriteLine("Donnees encryptees : ");
-            string textEncrypte = encryptage(PhraseUser,cle);
+            string textEncrypte = encryptage(textUser,cle);
             Console.WriteLine(textEncrypte);
 
             Console.WriteLine("\n");
 
+            Console.WriteLine("Donnees decryptees : ");
+            string textDecrypte = decryptage(textEncrypte,cle);
+            Console.WriteLine(textDecrypte);
+
+            Console.WriteLine("\n");
+            Console.WriteLine("----------");
+            Console.WriteLine("\n");
 
         }
     }

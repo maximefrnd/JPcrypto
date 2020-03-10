@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxim\\Desktop\\MMI\\Crypto\\Crypto.csproj": {}
+    "C:\\Users\\Maxime\\Desktop\\Crypto\\Crypto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxim\\Desktop\\MMI\\Crypto\\Crypto.csproj": {
+    "C:\\Users\\Maxime\\Desktop\\Crypto\\Crypto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\Desktop\\MMI\\Crypto\\Crypto.csproj",
+        "projectUniqueName": "C:\\Users\\Maxime\\Desktop\\Crypto\\Crypto.csproj",
         "projectName": "Crypto",
-        "projectPath": "C:\\Users\\maxim\\Desktop\\MMI\\Crypto\\Crypto.csproj",
-        "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\Desktop\\MMI\\Crypto\\obj\\",
+        "projectPath": "C:\\Users\\Maxime\\Desktop\\Crypto\\Crypto.csproj",
+        "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maxime\\Desktop\\Crypto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -9,3 +9,14 @@ C:\Users\maxim\Desktop\MMI\Crypto\bin\Debug\netcoreapp3.1\Crypto.dll
 C:\Users\maxim\Desktop\MMI\Crypto\bin\Debug\netcoreapp3.1\Crypto.pdb
 C:\Users\maxim\Desktop\MMI\Crypto\obj\Debug\netcoreapp3.1\Crypto.dll
 C:\Users\maxim\Desktop\MMI\Crypto\obj\Debug\netcoreapp3.1\Crypto.pdb
+C:\Users\Maxime\Desktop\Crypto\bin\Debug\netcoreapp3.1\Crypto.exe
+C:\Users\Maxime\Desktop\Crypto\bin\Debug\netcoreapp3.1\Crypto.deps.json
+C:\Users\Maxime\Desktop\Crypto\bin\Debug\netcoreapp3.1\Crypto.runtimeconfig.json
+C:\Users\Maxime\Desktop\Crypto\bin\Debug\netcoreapp3.1\Crypto.runtimeconfig.dev.json
+C:\Users\Maxime\Desktop\Crypto\bin\Debug\netcoreapp3.1\Crypto.dll
+C:\Users\Maxime\Desktop\Crypto\bin\Debug\netcoreapp3.1\Crypto.pdb
+C:\Users\Maxime\Desktop\Crypto\obj\Debug\netcoreapp3.1\Crypto.csprojAssemblyReference.cache
+C:\Users\Maxime\Desktop\Crypto\obj\Debug\netcoreapp3.1\Crypto.AssemblyInfoInputs.cache
+C:\Users\Maxime\Desktop\Crypto\obj\Debug\netcoreapp3.1\Crypto.AssemblyInfo.cs
+C:\Users\Maxime\Desktop\Crypto\obj\Debug\netcoreapp3.1\Crypto.dll
+C:\Users\Maxime\Desktop\Crypto\obj\Debug\netcoreapp3.1\Crypto.pdb
