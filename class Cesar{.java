@@ -21,7 +21,6 @@ class CesarAnalyse{
     public static void main(String[] args)
     {
         String c = args[0];
-        String m = "coucou";
         int [] f = new int[26];
         char k = 0;
 
@@ -30,11 +29,11 @@ class CesarAnalyse{
             f[c.charAt(i)-97]++;
         }
 
-        int max=0
+        
         for (int i = 0; i < f.length; i++ )
         {
-            if (f[i]>f[max]) {
-                max=i;
+            if (f[i]>f[k]) {
+                k=i;
             }
         }
 
